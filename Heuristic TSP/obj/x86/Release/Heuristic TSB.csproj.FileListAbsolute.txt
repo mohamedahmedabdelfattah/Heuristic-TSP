@@ -1,0 +1,10 @@
+E:\Mohamed\College\Projects\Heuristic TSB\Heuristic TSB\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Mohamed\College\Projects\Heuristic TSB\Heuristic TSB\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+E:\Mohamed\College\Projects\Heuristic TSB\Heuristic TSB\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+E:\Mohamed\College\Projects\Heuristic TSB\Heuristic TSB\bin\Release\Heuristic TSP.exe
+E:\Mohamed\College\Projects\Heuristic TSB\Heuristic TSB\bin\Release\Heuristic TSP.pdb
+E:\Mohamed\College\Projects\Heuristic TSB\Heuristic TSB\obj\x86\Release\HeuristicTSP.AboutFrm.resources
+E:\Mohamed\College\Projects\Heuristic TSB\Heuristic TSB\obj\x86\Release\HeuristicTSP.MainForm.resources
+E:\Mohamed\College\Projects\Heuristic TSB\Heuristic TSB\obj\x86\Release\HeuristicTSP.Properties.Resources.resources
+E:\Mohamed\College\Projects\Heuristic TSB\Heuristic TSB\obj\x86\Release\Heuristic TSP.exe
+E:\Mohamed\College\Projects\Heuristic TSB\Heuristic TSB\obj\x86\Release\Heuristic TSP.pdb
