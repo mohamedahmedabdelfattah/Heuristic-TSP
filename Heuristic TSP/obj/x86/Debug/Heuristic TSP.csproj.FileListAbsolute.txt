@@ -10,3 +10,13 @@ E:\Mohamed\College\Projects\Heuristic TSP\Heuristic TSP\obj\x86\Debug\Heuristic 
 E:\Mohamed\College\Projects\Heuristic TSP\Heuristic TSP\obj\x86\Debug\Heuristic TSP.pdb
 E:\Mohamed\Career\Programming\Projects\Heuristic TSP\Heuristic TSP\obj\x86\Debug\Heuristic TSP.exe
 E:\Mohamed\Career\Programming\Projects\Heuristic TSP\Heuristic TSP\obj\x86\Debug\Heuristic TSP.pdb
+D:\Programming\Projects\Heuristic TSP\Heuristic TSP\bin\Debug\Heuristic TSP.exe
+D:\Programming\Projects\Heuristic TSP\Heuristic TSP\bin\Debug\Heuristic TSP.pdb
+D:\Programming\Projects\Heuristic TSP\Heuristic TSP\obj\x86\Debug\Heuristic TSP.csprojAssemblyReference.cache
+D:\Programming\Projects\Heuristic TSP\Heuristic TSP\obj\x86\Debug\HeuristicTSP.AboutFrm.resources
+D:\Programming\Projects\Heuristic TSP\Heuristic TSP\obj\x86\Debug\HeuristicTSP.MainForm.resources
+D:\Programming\Projects\Heuristic TSP\Heuristic TSP\obj\x86\Debug\HeuristicTSP.Properties.Resources.resources
+D:\Programming\Projects\Heuristic TSP\Heuristic TSP\obj\x86\Debug\Heuristic TSP.csproj.GenerateResource.cache
+D:\Programming\Projects\Heuristic TSP\Heuristic TSP\obj\x86\Debug\Heuristic TSP.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Heuristic TSP\Heuristic TSP\obj\x86\Debug\Heuristic TSP.exe
+D:\Programming\Projects\Heuristic TSP\Heuristic TSP\obj\x86\Debug\Heuristic TSP.pdb
